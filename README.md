@@ -40,6 +40,6 @@ Use one of these accounts to log in:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/bankist.git
+   git clone https://github.com/Halimxyz/Bankist.git
    ```
 2. Open `index.html` in your browser — no build tools needed.
